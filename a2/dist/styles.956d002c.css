@@ -1,0 +1,14 @@
+#employee-search {
+  margin-bottom: 5px;
+}
+
+.outer-container {
+  padding: 30px;
+}
+
+#firstName:hover, #lastName:hover, #position:hover {
+  cursor: pointer;
+}
+
+
+/*# sourceMappingURL=/styles.956d002c.css.map */
